@@ -1,0 +1,20 @@
+{
+   "PlantName": "",
+   "Metrics": {
+       "Humidity":{
+           "Ideal": 1,
+           "AlertLow": 0,
+           "AlertHigh": 2
+       },
+       "Temperature":{
+        "Ideal": 1,
+        "AlertLow": 0,
+        "AlertHigh": 2
+        },
+        "pH":{
+            "Ideal": 1,
+            "AlertLow": 0,
+            "AlertHigh": 2
+        }   
+    }
+}

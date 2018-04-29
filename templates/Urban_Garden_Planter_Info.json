@@ -1,0 +1,9 @@
+{
+    "PlanterID": "",
+    "PlantID": "",
+    "IoTDeviceID":"",
+    "Location": {
+        "Address":"",
+        "Row":""
+    }
+}

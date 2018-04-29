@@ -1,7 +1,13 @@
 {
    "PlantID": "",
    "Timestamp": "",
-   "Sensors":{
-       "Humidity": 50
-   }
+   "Planter":{
+       "ID": ""
+   },
+   "IoT Device":{
+        "ID":"",
+        "Version":""
+   },
+   "SensorType":"",
+   "SensorValue":""
 }
